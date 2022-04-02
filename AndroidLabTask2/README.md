@@ -2,7 +2,7 @@
 # Завдання №1
 Створена листівка має вигляд, представлений на скриншоті нижче:
 <p align="center">
-  <img src="../screenshots/LabTask2/postcard.png width="400"/>
+  <img src="../screenshots/LabTask2/postcard.png" width="400"/>
 </p>
 
 # Завдання №2
