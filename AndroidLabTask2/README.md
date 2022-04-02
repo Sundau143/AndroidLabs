@@ -8,17 +8,14 @@
 
 # Завдання №2
 Робота застосунку "WordScramble" представлена на скриншотах нижче.
-<br>
 Початковий вигляд вікна:
 <p align="center">
   <img src="../screenshots/LabTask2/wordscramble_1.png" width="500"/>
 </p>
-<br>
 Вигляд ввікна у випадку неправильного введення слова:
 <p align="center">
   <img src="../screenshots/LabTask2/wordscramble_2.png" width="500"/>
 </p>
-<br>
 Вигляд ввікна у випадку правильного введення слова:
 <p align="center">
   <img src="../screenshots/LabTask2/wordscramble_3.png" width="500"/>
