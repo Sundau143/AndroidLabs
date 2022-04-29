@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AndroidLabTask4</string>
+
+    <string-array name="difficulties">
+        <item>Рівень: A1</item>
+        <item>Рівень: A2</item>
+        <item>Рівень: B1</item>
+        <item>Рівень: B2</item>
+        <item>Рівень: C1</item>
+        <item>Рівень: C2</item>
+    </string-array>
+
+    <string-array name="flags">
+        <item>british</item>
+        <item>french</item>
+        <item>spanish</item>
+    </string-array>
+
+
+
+</resources>
