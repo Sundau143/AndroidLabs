@@ -16,7 +16,7 @@
 <p align="center">
   <img src="../screenshots/LabTask4/screenshot_2.png" width="500"/>
 </p>
-Із вікна видалено останні 4 набори слів:
+Із вікна було видалено останні 4 набори слів:
 <p align="center">
   <img src="../screenshots/LabTask4/screenshot_3.png" width="500"/>
 </p>
