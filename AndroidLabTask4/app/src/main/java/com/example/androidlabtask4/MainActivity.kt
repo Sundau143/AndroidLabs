@@ -56,7 +56,7 @@ class MainActivity : AppCompatActivity() {
             adapter.submitList(list.toList())
         }
     }
-    
+
     //data class WordSet(val word: String, val definition: String)
     data class WordSet(val name: String, val difficulty: String, val flag: String)
 
