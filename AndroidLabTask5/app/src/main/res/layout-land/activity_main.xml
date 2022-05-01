@@ -10,7 +10,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        app:layout_constraintGuide_begin="64dp" />
+        app:layout_constraintGuide_begin="275dp" />
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragmentContainerView4"
@@ -20,7 +20,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/guideline6"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/guideline5"
+        app:layout_constraintTop_toBottomOf="@+id/fragmentContainerView2"
         tools:layout="@layout/fragment_fourth" />
 
     <androidx.fragment.app.FragmentContainerView
@@ -30,8 +30,8 @@
         android:layout_height="0dp"
         app:layout_constraintBottom_toTopOf="@+id/guideline5"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/guideline2"
+        app:layout_constraintStart_toStartOf="@+id/guideline6"
+        app:layout_constraintTop_toTopOf="parent"
         tools:layout="@layout/fragment_first" />
 
     <androidx.fragment.app.FragmentContainerView
@@ -51,7 +51,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_begin="236dp" />
+        app:layout_constraintGuide_begin="244dp" />
 
 
     <androidx.fragment.app.FragmentContainerView
@@ -60,7 +60,7 @@
         android:layout_width="0dp"
         android:layout_height="0dp"
         app:layout_constraintBottom_toTopOf="@+id/guideline2"
-        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/guideline6"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:layout="@layout/fragment_second" />
@@ -70,7 +70,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        app:layout_constraintGuide_begin="453dp" />
+        app:layout_constraintGuide_begin="149dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

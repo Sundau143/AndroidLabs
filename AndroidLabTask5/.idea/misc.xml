@@ -3,10 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/projects/AndroidLabs/AndroidLabTask5/app/src/main/res/layout-land/activity_main.xml" value="0.20729166666666668" />
+        <entry key="..\:/projects/AndroidLabs/AndroidLabTask5/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/projects/AndroidLabs/AndroidLabTask5/app/src/main/res/layout/activity_main_landscape.xml" value="0.14" />
+        <entry key="..\:/projects/AndroidLabs/AndroidLabTask5/app/src/main/res/layout/first_tab_fragment.xml" value="0.1956521739130435" />
         <entry key="..\:/projects/AndroidLabs/AndroidLabTask5/app/src/main/res/layout/fragment_first.xml" value="0.1609375" />
         <entry key="..\:/projects/AndroidLabs/AndroidLabTask5/app/src/main/res/layout/fragment_fourth.xml" value="0.1609375" />
         <entry key="..\:/projects/AndroidLabs/AndroidLabTask5/app/src/main/res/layout/fragment_second.xml" value="0.1609375" />
         <entry key="..\:/projects/AndroidLabs/AndroidLabTask5/app/src/main/res/layout/fragment_third.xml" value="0.1609375" />
+        <entry key="..\:/projects/AndroidLabs/AndroidLabTask5/app/src/main/res/layout/second_tab_fragment.xml" value="0.1956521739130435" />
+        <entry key="..\:/projects/AndroidLabs/AndroidLabTask5/app/src/main/res/layout/tab_layout_activity.xml" value="0.1956521739130435" />
+        <entry key="..\:/projects/AndroidLabs/AndroidLabTask5/app/src/main/res/layout/test.xml" value="0.1956521739130435" />
+        <entry key="..\:/projects/AndroidLabs/AndroidLabTask5/app/src/main/res/layout/third_tab_fragment.xml" value="0.1956521739130435" />
       </map>
     </option>
   </component>
