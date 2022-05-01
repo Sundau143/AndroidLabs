@@ -8,11 +8,11 @@
 Для цього макету було створено 2 варіації - для альбомної та портретної орієнтацій.
 Вигляд застосунку при портретній орієнтації:
 <p align="center">
-  <img src="../screenshots/LabTask5/screenshot_1.jpg" width="500"/>
+  <img src="../screenshots/LabTask5/screenshot_1.png" width="500"/>
 </p>
 Вигляд застосунку при альбомній орієнтації:
 <p align="center">
-  <img src="../screenshots/LabTask5/screenshot_2.jpg" width="500"/>
+  <img src="../screenshots/LabTask5/screenshot_2.png" width="500"/>
 </p>
 <br>
 #Завдання 2
@@ -20,13 +20,13 @@
 У кожній з трьох вкладок відкривався заздалегідь створений фрагмент із певним зображенням.
 Перша вкладка:
 <p align="center">
-  <img src="../screenshots/LabTask5/screenshot_3.jpg" width="500"/>
+  <img src="../screenshots/LabTask5/screenshot_3.png" width="500"/>
 </p>
 Друга вкладка:
 <p align="center">
-  <img src="../screenshots/LabTask5/screenshot_4.jpg" width="500"/>
+  <img src="../screenshots/LabTask5/screenshot_4.png" width="500"/>
 </p>
 Третя вкладка:
 <p align="center">
-  <img src="../screenshots/LabTask5/screenshot_5.jpg" width="500"/>
+  <img src="../screenshots/LabTask5/screenshot_5.png" width="500"/>
 </p>
