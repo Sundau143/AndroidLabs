@@ -21,12 +21,13 @@
 </p>
 Діалог при увімкненні та вимкненні режиму "в літаку":
 
-1) Увімкнено:
+Увімкнено:
 <p align="center">
   <img src="../screenshots/LabTask7/screenshot_1.png" width="500"/>
 </p>
 <br>
-2) Вимкнено:
+
+Вимкнено:
 <p align="center">
   <img src="../screenshots/LabTask7/screenshot_2.png" width="500"/>
 </p>
@@ -52,11 +53,11 @@
 </p>
 Сповіщення про увімкнення режима "в літаку":
 <p align="center">
-  <img src="../screenshots/LabTask7/screenshot_8.png"/>
+  <img src="../screenshots/LabTask7/Screenshot_8.png"/>
 </p>
 Сповіщення про вимкнення режима "в літаку":
 <p align="center">
-  <img src="../screenshots/LabTask7/screenshot_9.png"/>
+  <img src="../screenshots/LabTask7/Screenshot_9.png"/>
 </p>
 
 
