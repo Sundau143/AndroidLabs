@@ -20,6 +20,7 @@
   <img src="../screenshots/LabTask7/screenshot_0.png" width="500"/>
 </p>
 Діалог при увімкненні та вимкненні режиму "в літаку":
+
 1) Увімкнено:
 <p align="center">
   <img src="../screenshots/LabTask7/screenshot_1.png" width="500"/>
